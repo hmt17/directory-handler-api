@@ -1,0 +1,6 @@
+DELETE fruits
+LIST
+CREATE fruit
+DELETE fruits
+DELETE fruit
+LIST

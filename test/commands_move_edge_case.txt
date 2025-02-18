@@ -1,0 +1,18 @@
+CREATE fruits
+CREATE vegetables
+CREATE grains
+CREATE fruits/apples
+CREATE fruits/apples/fuji
+LIST
+CREATE grains/squash
+MOVE grains/squash vegetables
+LIST
+CREATE grains/squash
+CREATE vegetables/squash/yellow
+LIST
+MOVE vegetables/squash/yellow grains
+LIST
+CREATE vegetables/squash/yellow
+LIST
+MOVE vegetables/squash grains
+LIST
